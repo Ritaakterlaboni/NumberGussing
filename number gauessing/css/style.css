@@ -1,0 +1,265 @@
+*{
+    padding:0;
+    margin: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    display:inline-block;
+}
+.container{
+    width: 1170px;
+    margin:0 auto;
+   
+    padding:100px;
+}
+
+/*screen one start*/
+
+
+
+.screenOne{
+    width:500px;
+    background-color: rgb(204, 206, 206);
+    padding:100px;
+    text-align: center;
+
+}
+.headingOne{
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.inputNameOne{
+    border: 1px solid black;
+    border-radius: 50px;
+    width:300px;
+    margin-bottom: 20px;
+    padding:10px 10px;
+}
+.inputNameOne::placeholder{
+    padding:10px;
+}
+.buttonOne{
+    padding:10px 30px;
+    background-color: blueviolet;
+    border:1px solid black;
+    border-radius: 50px;
+    font-size: 18px;
+    color:white;
+    margin:22px;
+  
+}
+.errorOne{
+    padding:20px;
+    background-color: darkred;
+    text-align: center;
+    border:1px solid black;
+    color:white;
+    display:none;
+}
+
+
+
+.screenTwo{
+    width:500px;
+    background-color: rgb(204, 206, 206);
+    padding:100px;
+    text-align: center;
+    margin-top: 20px;
+    display:none;
+    
+}
+.headingTwo{
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.inputNameTwo{
+    border: 1px solid black;
+    border-radius: 50px;
+    width:300px;
+    margin-bottom: 20px;
+    padding:10px 10px;
+}
+.inputNameTwo::placeholder{
+    padding:10px;
+}
+.buttonTwo{
+    padding:10px 30px;
+    background-color: blueviolet;
+    border:1px solid black;
+    border-radius: 50px;
+    font-size: 18px;
+    color:white;
+    margin:22px;
+  
+}
+.errorTwo{
+    padding:20px;
+    background-color: darkred;
+    text-align: center;
+    border:1px solid black;
+    color:white;
+    display:none;
+}
+
+
+
+
+.screen3{
+    width:500px;
+    background-color: rgb(204, 206, 206);
+    padding:100px;
+    text-align: center;
+    margin-top: 20px;
+    display:none;
+    
+}
+.heading3{
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.inputName3{
+    border: 1px solid black;
+    border-radius: 50px;
+    width:300px;
+    margin-bottom: 20px;
+    padding:10px 10px;
+}
+.inputName3::placeholder{
+    padding:10px;
+}
+.button3{
+    padding:10px 30px;
+    background-color: blueviolet;
+    border:1px solid black;
+    border-radius: 50px;
+    font-size: 18px;
+    color:white;
+    margin:22px;
+  
+}
+.error3{
+    padding:20px;
+    background-color: darkred;
+    text-align: center;
+    border:1px solid black;
+    color:white;
+    display:none;
+}
+
+
+.screen4{
+    width:500px;
+    background-color: rgb(204, 206, 206);
+    padding:100px;
+    text-align: center;
+    margin-top: 20px;
+    display:none;
+    
+}
+.heading4{
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.inputName4{
+    border: 1px solid black;
+    border-radius: 50px;
+    width:300px;
+    margin-bottom: 20px;
+    padding:10px 10px;
+}
+.inputName4::placeholder{
+    padding:10px;
+}
+.button4{
+    padding:10px 30px;
+    background-color: blueviolet;
+    border:1px solid black;
+    border-radius: 50px;
+    font-size: 18px;
+    color:white;
+    margin:22px;
+  
+}
+.error4{
+    padding:20px;
+    background-color: darkred;
+    text-align: center;
+    border:1px solid black;
+    color:white;
+    display:none;
+}
+
+
+.screen5{
+    width:500px;
+    background-color: rgb(204, 206, 206);
+    padding:100px;
+    text-align: center;
+    margin-top: 20px;
+    display:none;
+    
+}
+.heading5{
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.inputName5{
+    border: 1px solid black;
+    border-radius: 50px;
+    width:300px;
+    margin-bottom: 20px;
+    padding:10px 10px;
+}
+.inputName5::placeholder{
+    padding:10px;
+}
+.button5{
+    padding:10px 30px;
+    background-color: blueviolet;
+    border:1px solid black;
+    border-radius: 50px;
+    font-size: 18px;
+    color:white;
+    margin:22px;
+  
+}
+.error5{
+    padding:20px;
+    background-color: darkred;
+    text-align: center;
+    border:1px solid black;
+    color:white;
+    display:none;
+}
+
+
+.screen6{
+    width:500px;
+    background-color: rgb(204, 206, 206);
+    padding:100px;
+    text-align: center;
+    margin-top: 20px;
+    display:none;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+.screen7{
+    width:500px;
+    background-color: rgb(204, 206, 206);
+    padding:100px;
+    text-align: center;
+    margin-top: 20px;
+    display:none;
+    font-weight: bold;
+    font-size: 40px;
+    
+}
